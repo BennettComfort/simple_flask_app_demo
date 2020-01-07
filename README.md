@@ -2,8 +2,8 @@
 Creating a simple flask app using docker containers
 
 ----
-
-├ ── README.md
+```
+├── README.md
 ├── api
 │   ├── Dockerfile
 │   ├── linkextractor.py
@@ -15,7 +15,7 @@ Creating a simple flask app using docker containers
 
 2 directories, 7 files
 ----
-
+```
 #### Pre-requisites:
 1. docker must be installed on machine
 2. Docker-Compose must be installed on your machine
